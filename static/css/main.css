@@ -1,0 +1,61 @@
+.container-fluid {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+input[type='checkbox'] {
+    width: 30px;
+    height: 30px;
+}
+
+.red { /* positive */
+    color: red;
+    display: inline;
+}
+
+.yellow { /* covid */
+    color: yellow;
+    display: inline;
+}
+
+.deepskyblue { /* I */
+    color: yellow;
+    display: inline;
+}
+
+.green { /* test */
+    color: #00ec00;
+    display: inline;
+}
+
+.center {
+  text-align: center;
+}
+
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: white;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+  margin: 0 4px;
+}
+
+.pagination a.active {
+  background-color: #00cee3;
+  color: white;
+  border: 1px solid #00cee3;
+}
+
+.pagination a:hover:not(.active) {background-color: #00cee3;}
+
+
+#select-form{
+    float: right;
+}

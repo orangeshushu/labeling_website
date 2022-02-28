@@ -1,0 +1,15 @@
+#piechart{
+    text-align: center;
+    font-size: 300px;
+    width: 70%;
+    height: 400px;
+}
+
+.center{
+    margin-top: 5%;
+    text-align: center;
+}
+
+progress{
+    width:1000px;
+}

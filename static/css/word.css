@@ -1,0 +1,16 @@
+.container-fluid {
+    padding: 13% 20% 23% 20%;
+    text-align: center;
+    background-color: rgba(10, 44, 116, 0.8);
+    color: white;
+}
+
+#feedbackSubmit{
+    margin-bottom: 5%;
+}
+h5{
+    padding-bottom: 5%;
+}
+input {
+    text-align: center;
+}
